@@ -1,1 +1,1 @@
-*Source code of 'Subspace Identification for Multi-Source Domain Adaptation'*
+**Source code of 'Subspace Identification for Multi-Source Domain Adaptation'**
